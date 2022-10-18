@@ -1,1 +1,1 @@
-generate the assembly code of a C code
+C program with a return of one
